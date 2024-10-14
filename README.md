@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/logo.png"/></p>
 
-<p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/logo.png](https://github.com/francisco0033/francisco0033/blob/main/banner.jpg"/></p>
+<p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/banner.jpg"/></p>
