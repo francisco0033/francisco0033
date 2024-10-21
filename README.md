@@ -13,6 +13,6 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
 - 🎬 **Edición de video:** Edición profesional de videos para proyectos creativos, comerciales y promocionales.
 - 🌱 Actualmente aprendiendo: Nuevas tecnologías en motores de juego y software de modelado avanzado.
 - 💬 Pregúntame sobre: Diseño 3D, desarrollo de videojuegos y edición de video.
-- 📫 Cómo contactarme: [Email](mailto:franciscoja232@gmail.com) 
+- 📫 Cómo contactarme: franciscoja232@gmail.com
 
 <p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/banner.jpg" alt="Banner profesional"/></p>
