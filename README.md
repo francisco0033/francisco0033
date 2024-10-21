@@ -1,25 +1,19 @@
 ## Hi there 👋
 
-<!--
-**francisco0033/francisco0033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Hola! Soy Francisco Javier Cruz Reyes</h1>
+<h2 align="center">Desarrollador y Diseñador de Entornos Virtuales</h2>
 
-Here are some ideas to get you started:
+<p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/logo.png" alt="Logo personal" width="200"/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<h1 align="center"> Bienvenido ,Mi nombre es Francisco Javier Cruz Reyes</h1>
-<h2 align="center">Mi perfil profesional:</h2>
-<h3 align="center">Programador y diseñador para entornos virtuales</h3>
+### Sobre mí
+Soy un apasionado del desarrollo de software y la creación de experiencias inmersivas en entornos virtuales. Mi objetivo es fusionar la tecnología y el diseño para crear soluciones innovadoras y prácticas.
 
+- 🔭 Actualmente trabajando en: Proyectos de desarrollo de software y diseño interactivo.
+- 🌱 Aprendiendo: Tecnologías avanzadas de realidad virtual y aumentada.
+- 👯 Busco colaborar en: Proyectos de código abierto y soluciones tecnológicas innovadoras.
+- 💬 Pregúntame sobre: Desarrollo web, diseño de UI/UX y programación en entornos 3D.
+- 📫 Cómo contactarme: [Email](mailto:tu-email@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tu-perfil)
 
-<p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/logo.png"/></p>
-
-<p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/banner.jpg"/></p>
+<p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/banner.jpg" alt="Banner profesional"/></p>
