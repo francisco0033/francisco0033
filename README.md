@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">¡Hola! Soy Francisco Javier Cruz Reyes</h1>
 <h2 align="center">Desarrollador y Diseñador de Entornos Virtuales</h2>
 
@@ -8,12 +6,13 @@
 ---
 
 ### Sobre mí
-Soy un apasionado del desarrollo de software y la creación de experiencias inmersivas en entornos virtuales. Mi objetivo es fusionar la tecnología y el diseño para crear soluciones innovadoras y prácticas.
+Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edición de video y desarrollo de videojuegos. Me apasiona transformar ideas en experiencias visuales y funcionales, utilizando herramientas avanzadas para crear contenido inmersivo y atractivo.
 
-- 🔭 Actualmente trabajando en: Proyectos de desarrollo de software y diseño interactivo.
-- 🌱 Aprendiendo: Tecnologías avanzadas de realidad virtual y aumentada.
-- 👯 Busco colaborar en: Proyectos de código abierto y soluciones tecnológicas innovadoras.
-- 💬 Pregúntame sobre: Desarrollo web, diseño de UI/UX y programación en entornos 3D.
-- 📫 Cómo contactarme: [Email](mailto:tu-email@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- 🎮 **Desarrollo de videojuegos:** Especializado en la creación de entornos interactivos, diseño de niveles y programación de mecánicas de juego.
+- 🖌️ **Diseño y modelado 3D:** Diseño de modelos y animaciones 3D para videojuegos y entornos virtuales.
+- 🎬 **Edición de video:** Edición profesional de videos para proyectos creativos, comerciales y promocionales.
+- 🌱 Actualmente aprendiendo: Nuevas tecnologías en motores de juego y software de modelado avanzado.
+- 💬 Pregúntame sobre: Diseño 3D, desarrollo de videojuegos y edición de video.
+- 📫 Cómo contactarme: [Email](mailto:franciscoja232@gmail.com) 
 
 <p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/banner.jpg" alt="Banner profesional"/></p>
