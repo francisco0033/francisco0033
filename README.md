@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Francisco Javier Cruz Reyes</h1>
 <h2 align="center">Desarrollador y Diseñador de Entornos Virtuales</h2>
 
-<p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/logo.png" alt="Logo personal" width="200"/></p>
+<p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/logo.png](https://github.com/francisco0033/francisco0033/blob/main/logo.jpg" alt="Logo personal" width="200"/></p>
 
 ---
 
