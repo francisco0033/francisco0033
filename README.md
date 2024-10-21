@@ -15,4 +15,4 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
 - 💬 Pregúntame sobre: Diseño 3D, desarrollo de videojuegos y edición de video.
 - 📫 Cómo contactarme: franciscoja232@gmail.com
 
-<p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/banner.jpg" alt="Banner profesional"/></p>
+<p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/banner.png" alt="Banner profesional"/></p>
