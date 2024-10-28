@@ -51,11 +51,7 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
 
 
 
-<ul>
-    <li>
-        <strong>PROYECTOS</strong>
-    </li>
-</ul>
+<h3 align="center">Proyectos</h3>
 <div align="center">
   <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
     <tr>
