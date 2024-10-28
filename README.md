@@ -19,7 +19,11 @@
         </ul>
     </li>
 </ul>
-### Sobre mí
+<ul>
+    <li>
+        <strong>Sobre mí</strong>
+    </li>
+</ul>
 Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edición de video y desarrollo de videojuegos. Me apasiona transformar ideas en experiencias visuales y funcionales, utilizando herramientas avanzadas para crear contenido inmersivo y atractivo.
 
 - 🎮 **Desarrollo de videojuegos:** Especializado en la creación de entornos interactivos, diseño de niveles y programación de mecánicas de juego.
