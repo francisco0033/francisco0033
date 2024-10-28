@@ -9,7 +9,7 @@
         <ul>
             <li><strong>Lenguajes de programación:</strong> HTML, CSS, C#, R, Flutter</li>
             <li><strong>Idiomas:</strong> Español, Inglés B1</li>
-            <li><strong>Experiencia en proyectos:</strong> Desarrollo de aplicaciones web para clientes, Desarrollo de aplicaciones Realidad Aumentada y Realidad Virtual</li>
+            <li><strong>Experiencia en proyectos:</strong> Desarrollo de aplicaciones web para clientes, desarrollo de aplicaciones de Realidad Aumentada y Realidad Virtual, y analítica de datos para optimizar el rendimiento y la toma de decisiones.</li>
         </ul>
     </li>
     <li><strong>Formación Académica</strong>
