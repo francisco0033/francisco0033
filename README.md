@@ -8,8 +8,7 @@
     <li><strong>Habilidades</strong>
         <ul>
             <li><strong>Lenguajes de programación:</strong> HTML, CSS, C#, R, Flutter</li>
-            <li><strong>Idiomas:</strong> Español, Inglés A2</li>
-            <li><strong>Data de interés:</strong> Machine Learning, Desarrollo de aplicaciones web, Desarrollo de aplicaciones AR</li>
+            <li><strong>Idiomas:</strong> Español, Inglés B1</li>
             <li><strong>Experiencia en proyectos:</strong> Desarrollo de aplicaciones web para clientes, Desarrollo de aplicaciones AR para clientes</li>
         </ul>
     </li>
