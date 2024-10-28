@@ -80,7 +80,7 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
         <h1>Hacienda Soltepec Realidad Virtual</h1>
         <h3>Hecho por @Nezto90, @, y @francisco0033</h3>
         <p></p>
-        <a href="[https://drive.google.com/file/d/1XzqU9AIkp7NbdX-_3t-7QD28GJo6CD5Q/view?usp=sharing](https://drive.google.com/file/d/1gzKYu2G3_fdvZ7gML6NW5ANZEri1ydaw/view?usp=sharing)" style="text-decoration: none;">
+        <a href="https://drive.google.com/file/d/1gzKYu2G3_fdvZ7gML6NW5ANZEri1ydaw/view?usp=sharing" style="text-decoration: none;">
           <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
             Enlace al preview del proyecto.
           </button>
