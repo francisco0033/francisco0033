@@ -72,4 +72,21 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
     </tr>
   </table>
 </div>
+
+<div align="center">
+  <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
+    <tr>
+      <td>
+        <h1>Hacienda Soltepec Realidad Virtual</h1>
+        <h3>Hecho @francisco0033</h3>
+        <p></p>
+        <a href="https://drive.google.com/file/d/1XzqU9AIkp7NbdX-_3t-7QD28GJo6CD5Q/view?usp=sharing" style="text-decoration: none;">
+          <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            Enlace al preview del proyecto.
+          </button>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/banner.png" alt="Banner profesional"/></p>
