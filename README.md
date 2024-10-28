@@ -26,11 +26,28 @@
 </ul>
 Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edición de video y desarrollo de videojuegos. Me apasiona transformar ideas en experiencias visuales y funcionales, utilizando herramientas avanzadas para crear contenido inmersivo y atractivo.
 
-- 🎮 **Desarrollo de videojuegos:** Especializado en la creación de entornos interactivos, diseño de niveles y programación de mecánicas de juego.
-- 🖌️ **Diseño y modelado 3D:** Diseño de modelos y animaciones 3D para videojuegos y entornos virtuales.
-- 🎬 **Edición de video:** Edición profesional de videos para proyectos creativos, comerciales y promocionales.
-- 💬 Pregúntame sobre: Diseño 3D, desarrollo de videojuegos y edición de video.
 
+🎮 Desarrollo de videojuegos: Programación, lógica de juego y efectos visuales.
+🖌️ Modelado 3D: Creación de assets visuales como entornos, objetos y efectos visuales.
+🎬 Edición de video: Edición profesional de videos para proyectos creativos, comerciales y promocionales.
+🕶️ Realidad Virtual (VR): Desarrollo de entornos interactivos en VR.
+📱 Realidad Aumentada (AR): Desarrollo de experiencias inmersivas en AR.
+🎨 Diseño: Experiencia en diseño visual y conceptual para entornos digitales.
+🖥️ Diseño de UI: Diseño de interfaces de usuario intuitivas y atractivas, asegurando una buena experiencia de usuario.
+📊 Analítica de datos: recopilación y análisis de datos para mejorar la toma de decisiones y optimizar proyectos.
+
+## 🛠️ Herramientas y Tecnologías
+
+![Unity](https://img.shields.io/badge/Engine-Unity-blue)  
+![Blender](https://img.shields.io/badge/3D-Blender-orange)  
+![C#](https://img.shields.io/badge/Code-C%23-blue)  
+![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-orange)  
+![PowerBI](https://img.shields.io/badge/Power-BI-blue)  
+
+## 🌐 Idiomas
+
+- *Español*: Nativo
+- *Inglés*: Básico (habilidad para comunicación técnica y profesional)
 
 <ul>
     <li>
