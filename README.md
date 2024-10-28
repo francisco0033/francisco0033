@@ -43,8 +43,8 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
   <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
     <tr>
       <td>
-        <h3>SITIO WEB PARA CARPINTERÍA SAN JOSÉ</h3>
-        <h1>Hecho por @RodriMalek y @francisco0033</h1>
+        <h1>SITIO WEB PARA CARPINTERÍA SAN JOSÉ</h1>
+        <h3>Hecho por @RodriMalek y @francisco0033</h3>
         <p></p>
         <a href="https://drive.google.com/file/d/1X_Yu_1sgYnIZGW-W6zOXA2mTJKanuApB/view?usp=sharing" target="_blank" style="text-decoration: none;">
           <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
