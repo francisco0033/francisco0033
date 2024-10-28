@@ -105,4 +105,20 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
     </tr>
   </table>
 </div>
+
+<div align="center">
+  <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
+    <tr>
+      <td>
+        <h1>Aplicacion de Realidad Aumentada sobre eSports</h1>
+        <p></p>
+        <a href="https://drive.google.com/file/d/1UV--vBy9vm77uwQ23eQmFENtbuC1Rqm1/view?usp=sharing" style="text-decoration: none;">
+          <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            Enlace al preview del proyecto.
+          </button>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/banner.png" alt="Banner profesional"/></p>
