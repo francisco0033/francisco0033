@@ -16,6 +16,7 @@
     <li><strong>Formación Académica</strong>
         <ul>
             <li>Grado en Técnico en Entornos Virtuales</li>
+            <li>Universidad Tecnológica de Tlaxcala</li>
         </ul>
     </li>
 </ul>
