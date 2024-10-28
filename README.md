@@ -39,16 +39,19 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
 
 ## 🛠️ Herramientas y Tecnologías
 
-![Unity](https://img.shields.io/badge/Engine-Unity-blue)  
-![Blender](https://img.shields.io/badge/3D-Blender-orange)  
-![C#](https://img.shields.io/badge/Code-C%23-blue)  
-![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-orange)  
-![PowerBI](https://img.shields.io/badge/Power-BI-blue)  
+<div>
+    <img src="https://img.shields.io/badge/Engine-Unity-blue" alt="Unity">
+    <br>
+    <img src="https://img.shields.io/badge/3D-Blender-orange" alt="Blender">
+    <br>
+    <img src="https://img.shields.io/badge/Code-C%23-blue" alt="C#">
+    <br>
+    <img src="https://img.shields.io/badge/Adobe-Photoshop-orange" alt="Photoshop">
+    <br>
+    <img src="https://img.shields.io/badge/Power-BI-blue" alt="Power BI">
+</div>
 
-## 🌐 Idiomas
 
-- *Español*: Nativo
-- *Inglés*: Básico (habilidad para comunicación técnica y profesional)
 
 <ul>
     <li>
