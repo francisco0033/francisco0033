@@ -44,7 +44,7 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
 ![C#](https://img.shields.io/badge/Code-C%23-blue)  
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-orange)  
 ![PowerBI](https://img.shields.io/badge/Power-BI-blue)  
-</ul>ul>
+</ul>
 ## 🌐 Idiomas
 
 - *Español*: Nativo
