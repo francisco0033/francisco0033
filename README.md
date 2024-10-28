@@ -29,7 +29,7 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
 - 🎮 **Desarrollo de videojuegos:** Especializado en la creación de entornos interactivos, diseño de niveles y programación de mecánicas de juego.
 - 🖌️ **Diseño y modelado 3D:** Diseño de modelos y animaciones 3D para videojuegos y entornos virtuales.
 - 🎬 **Edición de video:** Edición profesional de videos para proyectos creativos, comerciales y promocionales.
-- 🌱 Actualmente aprendiendo: Nuevas tecnologías en motores de juego y software de modelado avanzado.
+- 🌱 Actualmente aprendiendo: Nuevas tecnologías en motores de juego y software de modelado.
 - 💬 Pregúntame sobre: Diseño 3D, desarrollo de videojuegos y edición de video.
 - 📫 Cómo contactarme: franciscoja232@gmail.com
 
