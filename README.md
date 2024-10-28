@@ -4,13 +4,21 @@
 <p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/logo.jpg" alt="Logo personal" width="200"/></p>
 
 ---
-Habilidades:
-Lenguajes de programación:HTML, CSS, C#, R, Flutter
-Idiomas: Español Nativo, Inglés B1
-Data de interés: Machine Learning, Desarrollo de aplicaciones web, Desarrollo de aplicaciones AR
-Experiencia en proyectos: Desarrollo de aplicaciones web para clientes,Desarrollo de aplicaciones AR para clientes
-Formación Académica
-Grado en Tecnico en Entornos Virtuales
+<ul>
+    <li><strong>Habilidades</strong>
+        <ul>
+            <li><strong>Lenguajes de programación:</strong> HTML, CSS, C#, R, Flutter</li>
+            <li><strong>Idiomas:</strong> Español, Inglés A2</li>
+            <li><strong>Data de interés:</strong> Machine Learning, Desarrollo de aplicaciones web, Desarrollo de aplicaciones AR</li>
+            <li><strong>Experiencia en proyectos:</strong> Desarrollo de aplicaciones web para clientes, Desarrollo de aplicaciones AR para clientes</li>
+        </ul>
+    </li>
+    <li><strong>Formación Académica</strong>
+        <ul>
+            <li>Grado en Técnico en Entornos Virtuales</li>
+        </ul>
+    </li>
+</ul>
 ### Sobre mí
 Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edición de video y desarrollo de videojuegos. Me apasiona transformar ideas en experiencias visuales y funcionales, utilizando herramientas avanzadas para crear contenido inmersivo y atractivo.
 
