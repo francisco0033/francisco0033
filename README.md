@@ -33,4 +33,20 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
 - 💬 Pregúntame sobre: Diseño 3D, desarrollo de videojuegos y edición de video.
 - 📫 Cómo contactarme: franciscoja232@gmail.com
 
+- <div align="center">
+  <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
+    <tr>
+      <td>
+        <h3>Enlace al Archivo</h3>
+        <p>Haz clic en el botón de abajo para acceder al archivo en Google Drive.</p>
+        <a href="https://drive.google.com/file/d/1X_Yu_1sgYnIZGW-W6zOXA2mTJKanuApB/view?usp=sharing" target="_blank" style="text-decoration: none;">
+          <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            Abrir Enlace
+          </button>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/banner.png" alt="Banner profesional"/></p>
