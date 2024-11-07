@@ -136,7 +136,7 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
 </div>
 
 
-<a href="https://github.com/francisco0033/francisco0033/blob/main/Curriculum_Francisco_Cruz.pdf" download="Curriculum_Francisco_Cruz">Descargar Currículum</a>
+<h2 align="center"><a href="https://github.com/francisco0033/francisco0033/blob/main/Curriculum_Francisco_Cruz.pdf" download="Curriculum_Francisco_Cruz">Descargar Currículum</a></h2>
 
 
 <p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/banner.png" alt="Banner profesional"/></p>
