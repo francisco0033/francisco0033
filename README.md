@@ -8,7 +8,7 @@
     <li><strong>Habilidades</strong>
         <ul>
             <li><strong>Lenguajes de programación:</strong> HTML, CSS, C#, R, Flutter</li>
-            <li><strong>Idiomas:</strong> Español, Inglés B1</li>
+            <li><strong>Idiomas:</strong> Español Nativo, Inglés B1</li>
             <li><strong>Experiencia en proyectos:</strong> Desarrollo de aplicaciones web para clientes, desarrollo de aplicaciones de Realidad Aumentada y Realidad Virtual, y analítica de datos para optimizar el rendimiento y la toma de decisiones.</li>
         </ul>
     </li>
@@ -134,4 +134,9 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
     </tr>
   </table>
 </div>
+
+
+<a href="https://github.com/francisco0033/francisco0033/blob/main/Curriculum_Francisco_Cruz.pdf" download="Curriculum_Francisco_Cruz">Descargar Currículum</a>
+
+
 <p align="center"><img src="https://github.com/francisco0033/francisco0033/blob/main/banner.png" alt="Banner profesional"/></p>
