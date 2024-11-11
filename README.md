@@ -17,7 +17,6 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
             <li><strong>Experiencia en proyectos:</strong> Desarrollo de aplicaciones web para clientes, desarrollo de aplicaciones de Realidad Aumentada y Realidad Virtual, y analítica de datos para optimizar el rendimiento y la toma de decisiones.</li>
         </ul>
     </li>
-    <ul>
         <ul>
     <li><h2><strong>Idiomas</strong></h2>
         <ul>
