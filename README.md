@@ -9,7 +9,17 @@
         <h2><strong>Sobre mí</strong></h2>
     </li>
 </ul>
-Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edición de video y desarrollo de videojuegos. Me apasiona transformar ideas en experiencias visuales y funcionales, utilizando herramientas avanzadas para crear contenido inmersivo y atractivo.
+Soy un profesional creativo con experiencia en diseño digital, analítica de datos, modelado 3D, edición de video y desarrollo de videojuegos. Me apasiona transformar ideas en experiencias visuales y funcionales, utilizando herramientas avanzadas para crear contenido inmersivo y atractivo.
+<ul>
+    <li><strong>📊 Analítica de datos</strong>: recopilación y análisis de datos para mejorar la toma de decisiones y optimizar proyectos.</li>
+    <li><strong>🎮 Desarrollo de videojuegos</strong>: programación, lógica de juego y efectos visuales.</li>
+    <li><strong>🖌️ Modelado 3D</strong>: creación de assets visuales como entornos, objetos y efectos visuales.</li>
+    <li><strong>🎬 Edición de video</strong>: edición profesional de videos para proyectos creativos, comerciales y promocionales.</li>
+    <li><strong>🕶️ Realidad Virtual (VR)</strong>: desarrollo de entornos interactivos en VR.</li>
+    <li><strong>📱 Realidad Aumentada (AR)</strong>: desarrollo de experiencias inmersivas en AR.</li>
+    <li><strong>🎨 Diseño</strong>: experiencia en diseño visual y conceptual para entornos digitales.</li>
+    <li><strong>🖥️ Diseño de UI</strong>: diseño de interfaces de usuario intuitivas y atractivas, asegurando una buena experiencia de usuario.</li>
+</ul>
 <ul>
     <li><h2><strong>Habilidades</strong></h2></li>
 </ul>
@@ -28,16 +38,6 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
 
 
 
-<ul>
-    <li><strong>📊 Analítica de datos</strong>: recopilación y análisis de datos para mejorar la toma de decisiones y optimizar proyectos.</li>
-    <li><strong>🎮 Desarrollo de videojuegos</strong>: programación, lógica de juego y efectos visuales.</li>
-    <li><strong>🖌️ Modelado 3D</strong>: creación de assets visuales como entornos, objetos y efectos visuales.</li>
-    <li><strong>🎬 Edición de video</strong>: edición profesional de videos para proyectos creativos, comerciales y promocionales.</li>
-    <li><strong>🕶️ Realidad Virtual (VR)</strong>: desarrollo de entornos interactivos en VR.</li>
-    <li><strong>📱 Realidad Aumentada (AR)</strong>: desarrollo de experiencias inmersivas en AR.</li>
-    <li><strong>🎨 Diseño</strong>: experiencia en diseño visual y conceptual para entornos digitales.</li>
-    <li><strong>🖥️ Diseño de UI</strong>: diseño de interfaces de usuario intuitivas y atractivas, asegurando una buena experiencia de usuario.</li>
-</ul>
 
 <h2>🛠️ Herramientas y Tecnologías</h2>
 
