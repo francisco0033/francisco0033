@@ -11,26 +11,21 @@
 </ul>
 Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edición de video y desarrollo de videojuegos. Me apasiona transformar ideas en experiencias visuales y funcionales, utilizando herramientas avanzadas para crear contenido inmersivo y atractivo.
 <ul>
-    <li><h2><strong>Habilidades</strong></h2>
-        </ul>
+    <li><h2><strong>Habilidades</strong></h2></li>
+</ul>
             <li><strong>Lenguajes de programación:</strong> HTML, CSS, C#, R, Flutter</li>
             <li><strong>Experiencia en proyectos:</strong> Desarrollo de aplicaciones web para clientes, desarrollo de aplicaciones de Realidad Aumentada y Realidad Virtual, y analítica de datos para optimizar el rendimiento y la toma de decisiones.</li>
         <ul>
     <li><h2><strong>Idiomas</strong></h2>
-        <ul>
+        </ul>
             <li><strong>Español Nativo</li>
             <li><strong>Ingles B1</li>
-        </ul>
-    </li>
-    </li>
-    <ul>
         <ul>
     <li><h2><strong>Formación Académica</strong></h2>
         </ul>
             <li>Grado en Técnico en Entornos Virtuales</li>
             <li>Universidad Tecnológica de Tlaxcala</li>
-    </li>
-</ul>
+
 
 
 <ul>
