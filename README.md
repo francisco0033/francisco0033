@@ -16,13 +16,13 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
             <li><strong>Lenguajes de programación:</strong> HTML, CSS, C#, R, Flutter</li>
             <li><strong>Experiencia en proyectos:</strong> Desarrollo de aplicaciones web para clientes, desarrollo de aplicaciones de Realidad Aumentada y Realidad Virtual, y analítica de datos para optimizar el rendimiento y la toma de decisiones.</li>
         </ul>
-    </li>
         <ul>
     <li><h2><strong>Idiomas</strong></h2>
         <ul>
-            <li>Español nativo</li>
-            <li>Ingles B1</li>
+            <li><strong>Español Nativo</li>
+            <li><strong>Ingles B1</li>
         </ul>
+    </li>
     </li>
     <ul>
         <ul>
