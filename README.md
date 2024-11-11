@@ -12,10 +12,9 @@
 Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edición de video y desarrollo de videojuegos. Me apasiona transformar ideas en experiencias visuales y funcionales, utilizando herramientas avanzadas para crear contenido inmersivo y atractivo.
 <ul>
     <li><h2><strong>Habilidades</strong></h2>
-        <ul>
+        </ul>
             <li><strong>Lenguajes de programación:</strong> HTML, CSS, C#, R, Flutter</li>
             <li><strong>Experiencia en proyectos:</strong> Desarrollo de aplicaciones web para clientes, desarrollo de aplicaciones de Realidad Aumentada y Realidad Virtual, y analítica de datos para optimizar el rendimiento y la toma de decisiones.</li>
-        </ul>
         <ul>
     <li><h2><strong>Idiomas</strong></h2>
         <ul>
