@@ -19,16 +19,14 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
     </li>
     <ul>
         <ul>
-    <li>
-        <h2><strong>Idiomas</strong></h2>
+    <li><h2><strong>Idiomas</strong></h2>
+        <ul>
+            <li>Español nativo</li>
+            <li>Ingles B1</li>
+        </ul>
     </li>
-</ul>
-    <li>
-    </li>
-        <li>Español Nativo </li>
-        <li>Inglés B1</li>
-    
-</ul>
+    <ul>
+        <ul>
     <li><h2><strong>Formación Académica</strong></h2>
         <ul>
             <li>Grado en Técnico en Entornos Virtuales</li>
