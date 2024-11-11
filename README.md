@@ -19,9 +19,11 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
     </li>
     <ul>
     <li>
-        <h2><strong>Idiomasí</strong></h2>
-        <li><strong>Idiomas:</strong> Español Nativo, Inglés B1</li>
+        <h2><strong>Idiomas</strong></h2>
     </li>
+        <li>Español Nativo </li>
+        <li>Inglés B1</li>
+    
 </ul>
     <li><h2><strong>Formación Académica</strong></h2>
         <ul>
