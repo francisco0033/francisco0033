@@ -26,10 +26,9 @@ Soy un profesional creativo con experiencia en diseño digital, modelado 3D, edi
     <ul>
         <ul>
     <li><h2><strong>Formación Académica</strong></h2>
-        <ul>
+        </ul>
             <li>Grado en Técnico en Entornos Virtuales</li>
             <li>Universidad Tecnológica de Tlaxcala</li>
-        </ul>
     </li>
 </ul>
 
