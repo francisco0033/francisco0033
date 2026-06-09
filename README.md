@@ -78,7 +78,7 @@ Soy un profesional creativo con experiencia en diseño digital, analítica de da
         <h1>VIDEOJUEGO GALAXY SHOOTER</h1>
         <h3>Hecho @francisco0033</h3>
         <p></p>
-        <a href="https://drive.google.com/file/d/1XzqU9AIkp7NbdX-_3t-7QD28GJo6CD5Q/view?usp=sharing" style="text-decoration: none;">
+        <a href="https://drive.google.com/file/d/1AKSg_KF4hy3aOCm7FHs6--SZ_vUIbvRt/view?usp=sharing" style="text-decoration: none;">
           <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
             Enlace al preview del proyecto.
           </button>
@@ -137,6 +137,21 @@ Soy un profesional creativo con experiencia en diseño digital, analítica de da
   </table>
 </div>
 
+<div align="center">
+  <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
+    <tr>
+      <td>
+        <h1>Portafolio de edición de video y motion graphics para redes sociales</h1>
+        <p>Hecho por @Nezto90 y @francisco0033</p>
+        <a href="https://franciscoreyesportafolio.carrd.co/" style="text-decoration: none;">
+          <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            Enlace al preview del proyecto.
+          </button>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="center"><a href="https://github.com/francisco0033/francisco0033/blob/main/Curriculum_Francisco_Cruz.pdf" download="Curriculum_Francisco_Cruz">Descargar Currículum</a></h2>
 
