@@ -34,7 +34,7 @@ Soy un profesional creativo con experiencia en diseño digital, analítica de da
     <li><h2><strong>Formación Académica</strong></h2>
         </ul>
             <li>Grado en Ingeniería en Entornos Virtuales y Negocios Digitales</li>
-            <li>Universidad Tecnológica de Tlaxcala</li>
+            <li>Universidad Tecnológica de Tlaxcala 2021-2025</li>
 
 
 
