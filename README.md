@@ -33,7 +33,7 @@ Soy un profesional creativo con experiencia en diseño digital, analítica de da
         <ul>
     <li><h2><strong>Formación Académica</strong></h2>
         </ul>
-            <li>Grado en Técnico en Entornos Virtuales</li>
+            <li>Grado en Ingeniería en Entornos Virtuales y Negocios Digitales</li>
             <li>Universidad Tecnológica de Tlaxcala</li>
 
 
