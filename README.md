@@ -142,7 +142,7 @@ Soy un profesional creativo con experiencia en diseño digital, analítica de da
     <tr>
       <td>
         <h1>Portafolio de edición de video y motion graphics para redes sociales</h1>
-        <p>Hecho por @Nezto90 y @francisco0033</p>
+        <p>@francisco0033</p>
         <a href="https://franciscoreyesportafolio.carrd.co/" style="text-decoration: none;">
           <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
             Enlace al preview del proyecto.
