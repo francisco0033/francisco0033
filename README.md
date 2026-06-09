@@ -111,7 +111,7 @@ Soy un profesional creativo con experiencia en diseño digital, analítica de da
       <td>
         <h1>Intro institucional, edición y grabación para la carrera de Entornos Virtuales y Negocios Digitales UTT</h1>
         <p></p>
-        <a href="https://drive.google.com/file/d/1ycq1tdBCLJSkA1K5F_Z2994Tj05yxaZx/view?usp=sharing" style="text-decoration: none;">
+        <a href="https://drive.google.com/file/d/16TuJB2wCUGliLj8K_BkHCcEwj-U98k4M/view?usp=sharing" style="text-decoration: none;">
           <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
             Enlace al preview del proyecto.
           </button>
@@ -127,7 +127,7 @@ Soy un profesional creativo con experiencia en diseño digital, analítica de da
       <td>
         <h1>Aplicacion de Realidad Aumentada sobre eSports</h1>
         <p>Hecho por @Nezto90 y @francisco0033</p>
-        <a href="https://drive.google.com/file/d/1UV--vBy9vm77uwQ23eQmFENtbuC1Rqm1/view?usp=sharing" style="text-decoration: none;">
+        <a href="https://drive.google.com/file/d/162ErTeTgqctNDVZ1YffVw0A7V4v8WSi1/view?usp=sharing" style="text-decoration: none;">
           <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
             Enlace al preview del proyecto.
           </button>
