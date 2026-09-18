@@ -29,7 +29,7 @@ Soy un profesional creativo con experiencia en diseño digital, analítica de da
     <li><h2><strong>Idiomas</strong></h2>
         </ul>
             <li><strong>Español Nativo</li>
-            <li><strong>Ingles B1</li>
+            <li><strong>Ingles B2</li>
         <ul>
     <li><h2><strong>Formación Académica</strong></h2>
         </ul>
@@ -54,6 +54,39 @@ Soy un profesional creativo con experiencia en diseño digital, analítica de da
 
 
 <h2 align="center">Proyectos</h2>
+
+<div align="center">
+  <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
+    <tr>
+      <td>
+        <h1>Portafolio de edición de video y motion graphics para redes sociales</h1>
+        <p>@francisco0033</p>
+        <a href="https://franciscoreyesportafolio.carrd.co/" style="text-decoration: none;">
+          <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            Enlace al preview del proyecto.
+          </button>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
+    <tr>
+      <td>
+        <h1>Proyectos Freelance Diseño</h1>
+        <p></p>
+        <a href="[https://drive.google.com/file/d/162ErTeTgqctNDVZ1YffVw0A7V4v8WSi1/view?usp=sharing](https://drive.google.com/drive/folders/1d28naImgBK1RhLnhn19t9YlI2D7HU0Cr?usp=sharing)" style="text-decoration: none;">
+          <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            Enlace al preview del proyecto.
+          </button>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
   <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
     <tr>
@@ -128,22 +161,6 @@ Soy un profesional creativo con experiencia en diseño digital, analítica de da
         <h1>Aplicacion de Realidad Aumentada sobre eSports</h1>
         <p>Hecho por @Nezto90 y @francisco0033</p>
         <a href="https://drive.google.com/file/d/162ErTeTgqctNDVZ1YffVw0A7V4v8WSi1/view?usp=sharing" style="text-decoration: none;">
-          <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-            Enlace al preview del proyecto.
-          </button>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
-    <tr>
-      <td>
-        <h1>Portafolio de edición de video y motion graphics para redes sociales</h1>
-        <p>@francisco0033</p>
-        <a href="https://franciscoreyesportafolio.carrd.co/" style="text-decoration: none;">
           <button style="background-color: #2ea44f; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
             Enlace al preview del proyecto.
           </button>
