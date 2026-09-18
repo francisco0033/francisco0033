@@ -44,10 +44,10 @@ Soy un profesional creativo con experiencia en diseño digital, analítica de da
 <div>
     <img src="https://img.shields.io/badge/Engine-Unity-blue" alt="Unity">
     <img src="https://img.shields.io/badge/3D-Blender-orange" alt="Blender">
-    <img src="https://img.shields.io/badge/Code-VisualStudioCode-blue" alt="Visual">
     <img src="https://img.shields.io/badge/Adobe-Photoshop-orange" alt="Photoshop">
-    <img src="https://img.shields.io/badge/Microsoft-PowerBI-blue" alt="Power BI">
     <img src="https://img.shields.io/badge/Adobe-Premiere-orange" alt="Premiere">
+    <img src="https://img.shields.io/badge/Microsoft-PowerBI-blue" alt="Power BI">
+    
 </div>
 
 
